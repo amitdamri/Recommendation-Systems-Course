@@ -14,11 +14,11 @@ The porjects were implemented in python 3.7, using pycharm and Google Colab.
 ---
 
 ## Projects
-1.
+1. SVD model implementaion
 
-2.
+2. CTR prediction
 
-3.
+3. Visually-Aware recommendation system - separate repository
 
 ---
 
