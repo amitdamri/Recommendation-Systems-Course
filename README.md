@@ -4,8 +4,8 @@
 <img src="https://miro.medium.com/max/1400/1*QbBtk_xjwQWDW7aCrmGwfw.jpeg" height=300px width=700px>
 </p>
 
-This repository contains my projects which were implemented as part of the Advanced topics in recommendation systems course at Ben Gurion University of The Negev.  </br>
-During the course I have implemented 3 projects - SVD model implementaion, Visually-Aware recommendation system and CTR prediction.
+This repository contains my projects that were implemented as part of the Advanced topics in recommendation systems course at Ben Gurion University of The Negev.  </br>
+During the course I have implemented 3 projects - SVD model, Visually-Aware recommendation system and CTR prediction models.
 
 ---
 
