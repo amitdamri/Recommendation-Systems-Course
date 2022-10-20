@@ -14,9 +14,9 @@ The porjects were implemented in python 3.7, using pycharm and Google Colab.
 ---
 
 ## Projects
-1. SVD model implementaion
+1. SVD model implementaion - implement a recommendation system based on Matrix Factorization.
 
-2. CTR prediction
+2. CTR prediction - a kaggle competition on Taboola data. The task was to build a model that predicts if a user will click on an item.
 
 3. Visually-Aware recommendation system - separate repository
 
